@@ -1,0 +1,26 @@
+footer h5, footer h6 {
+  color: white;
+}
+
+footer p, footer li {
+  color: #999;
+  font-size: 14px;
+}
+
+footer .social-icons svg {
+  color: #808080; /* اللون الافتراضي */
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+footer .social-icons svg:hover {
+  color: #00B207; /* لون عند hover */
+}
+
+footer .input-group .form-control {
+  border-radius: 50px 0 0 50px;
+}
+
+footer .input-group .btn {
+  border-radius: 0 50px 50px 0;
+}
