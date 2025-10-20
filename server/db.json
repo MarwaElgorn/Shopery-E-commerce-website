@@ -1,0 +1,260 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Fresh Fruit",
+      "image": "/Categories/image 1.svg"
+    },
+    {
+      "id": "2",
+      "name": "Fresh Vegetables",
+      "image": "/Categories/image 1 (1).svg"
+    },
+    {
+      "id": "3",
+      "name": "Meat & Fish",
+      "image": "/Categories/image 1 (2).svg"
+    },
+    {
+      "id": "4",
+      "name": "Snacks",
+      "image": "/Categories/image 1 (3).svg"
+    },
+    {
+      "id": "5",
+      "name": "Beverages",
+      "image": "/Categories/image 1 (4).svg"
+    },
+    {
+      "id": "6",
+      "name": "Beauty & Health",
+      "image": "/Categories/image 1 (5).svg"
+    },
+    {
+      "id": "7",
+      "name": "Bread & Bakery",
+      "image": "/Categories/image 1 (6).svg"
+    },
+    {
+      "id": "8",
+      "name": "Baking Needs",
+      "image": "/Categories/image 1 (7).svg"
+    },
+    {
+      "id": "9",
+      "name": "Cooking",
+      "image": "/Categories/image 1 (8).svg"
+    },
+    {
+      "id": "10",
+      "name": "Diabetic Food",
+      "image": "/Categories/image 1 (9).svg"
+    },
+    {
+      "id": "11",
+      "name": "Dish Detergents",
+      "image": "/Categories/image 1 (10).svg"
+    },
+    {
+      "id": "12",
+      "name": "Oil",
+      "image": "/Categories/image 1 (11).svg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Green Apple",
+      "price": 14.99,
+      "oldPrice": 20.99,
+      "categoryId": 1,
+      "image": "/Products/greenapple.svg",
+      "rating": 4,
+      "isSale": true,
+      "discount": 50
+    },
+    {
+      "id": "2",
+      "title": "Fresh Indian Malta",
+      "price": 20,
+      "categoryId": 1,
+      "image": "/Products/orange.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "3",
+      "title": "Chinese cabbage",
+      "price": 12,
+      "categoryId": 2,
+      "image": "/Products/cabbage.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "4",
+      "title": "Green Lettuce",
+      "price": 9,
+      "categoryId": 2,
+      "image": "/Products/lettuce.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "5",
+      "title": "Eggplant",
+      "price": 34,
+      "categoryId": 2,
+      "image": "/Products/eggplant.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "6",
+      "title": "Big Potatoes",
+      "price": 20,
+      "categoryId": 2,
+      "image": "/Products/potatos.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "7",
+      "title": "Corn",
+      "price": 20,
+      "categoryId": 2,
+      "image": "/Products/corn.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "8",
+      "title": "Fresh Cauliflower",
+      "price": 12,
+      "categoryId": 2,
+      "image": "/Products/qrnbet.svg",
+      "rating": 4,
+      "isSale": false
+    },
+    {
+      "id": "9",
+      "title": "Green Capsicum",
+      "price": 9,
+      "oldPrice": 20.99,
+      "categoryId": 2,
+      "image": "/Products/flfl.svg",
+      "rating": 4,
+      "isSale": true,
+      "discount": 50
+    },
+    {
+      "id": "10",
+      "title": "Green Chili",
+      "price": 34,
+      "categoryId": 2,
+      "image": "/Products/chilli.svg",
+      "rating": 4,
+      "isSale": false
+    }
+  ],
+  "users": [
+    {
+      "id": "ce9",
+      "name": "Aya Elgorn",
+      "email": "www.aya@gmail.com",
+      "password": "fkigiAitAf@cq2",
+      "confirmPassword": "fkigiAitAf@cq2"
+    },
+    {
+      "id": "c4e9",
+      "name": "Marwa Elgorn",
+      "email": "www.marwa@gmail.com",
+      "password": "fkigiAitAf@cq2",
+      "confirmPassword": "fkigiAitAf@cq2"
+    },
+    {
+      "id": "99de",
+      "name": "suzy",
+      "email": "x.suzy@gmail.com",
+      "password": "atAyhj@AuLCxk9",
+      "confirmPassword": "atAyhj@AuLCxk9"
+    },
+    {
+      "id": "fe3c",
+      "name": "m7md abdelaa",
+      "email": "m7medabdelaal@gmail.com",
+      "password": "P@ssw00rd",
+      "confirmPassword": "P@ssw00rd"
+    },
+    {
+      "id": "d0fb",
+      "name": "sdfghj",
+      "email": "asdfgvsd@gmail.com",
+      "password": "0987654",
+      "confirmPassword": "0987654"
+    },
+    {
+      "id": "942b",
+      "name": "rrtyuiioo",
+      "email": "fyggjbkhnl@yahoo.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "5fb5",
+      "name": "mahmoud",
+      "email": "mahmoud@yahoo.com",
+      "password": "P@ssw00rd",
+      "confirmPassword": "P@ssw00rd"
+    },
+    {
+      "id": "2fc5",
+      "name": "hazem",
+      "email": "hazem@gmail.com",
+      "password": "Hazem@123",
+      "confirmPassword": "Hazem@123"
+    },
+    {
+      "id": "04e2",
+      "name": "farah",
+      "email": "farah@gmail.com",
+      "password": "Farah@123",
+      "confirmPassword": "Farah@123"
+    },
+    {
+      "id": "22d5",
+      "name": "sara",
+      "email": "sara@gmail.com",
+      "password": "Bc@WWEGQL6cs@d",
+      "confirmPassword": "Bc@WWEGQL6cs@d"
+    },
+    {
+      "id": "91fa",
+      "name": "adgjj",
+      "email": "www.darwa@gmail.com",
+      "password": "M@rwa123",
+      "confirmPassword": "M@rwa123"
+    },
+    {
+      "id": "dad3",
+      "name": "mahmoud abdelaal",
+      "email": "www.marwaelgorn@gmail.com",
+      "password": "P@ssw00rd",
+      "confirmPassword": "P@ssw00rd"
+    },
+    {
+      "id": "70fc",
+      "name": "Marwa ",
+      "email": "marwa@gmail.com",
+      "password": "P@ssw00rd",
+      "confirmPassword": "P@ssw00rd"
+    },
+    {
+      "id": "28f8",
+      "name": "username",
+      "email": "username@gmail.com",
+      "password": "P@ssw00rd",
+      "confirmPassword": "P@ssw00rd"
+    }
+  ]
+}
