@@ -1,15 +1,11 @@
 {
-  "name": "y",
+  "name": "shopery",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "homepage": "https://MarwaElgorn.github.io/Shopery-E-commerce-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "lint": "eslint .",
     "preview": "vite preview",
     "server": "json-server --watch server/db.json --port 5000"
   },
@@ -37,7 +33,6 @@
     "eslint": "^9.36.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.22",
-    "gh-pages": "^6.3.0",
     "globals": "^16.4.0",
     "json-server": "^1.0.0-beta.3",
     "prettier": "^3.6.2",
@@ -47,3 +42,4 @@
     "vite": "npm:rolldown-vite@7.1.14"
   }
 }
+ 
